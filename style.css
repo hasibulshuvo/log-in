@@ -1,0 +1,56 @@
+body{
+	background-image: url(new/img.jpg);
+	background-size: 50%;
+}
+
+.amader-form{
+	width: 400px;
+	padding: 20px 50px;
+	margin: 50px auto;
+	background: rgba(0, 0,0, .4) ;
+	border-radius: 10px;
+}
+
+.amader-form input{
+	display: block;
+	font-family: tahoma;
+	color: white;
+	background: transparent;
+	border: 2px solid black;
+	border-radius: 5px;
+	padding: 3px;
+}
+
+.amader-form label{
+	font-size: 20px;
+	font-family: tahoma;
+	color: #FC4136;
+	cursor: pointer;
+	
+}
+
+.amader-form input[type=submit]{
+	margin-top:10px;
+	cursor: pointer;
+}
+
+
+.amader-form p{
+	
+	font-size: 15px;
+	font-family: tahoma;
+	color: #fff;
+}
+
+.amader-form a{
+	font-size: 20px;
+	font-family: tahoma;
+	color: #FC4136;
+	
+}
+
+
+
+
+
+
